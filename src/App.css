@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2.3rem;
+}
+
+.MuiOutlinedInput-input {
+  padding: 0.25em 0.5em !important;
+}

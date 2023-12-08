@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Routes, Route, BrowserRouter } from "react-router-dom";
+import Pokedex from "./pages/pokedex";
+import PokemonDetail from "./pages/pokemonDetail";
+import Login from "./pages/login";
+import AuthenticationService from "./services/authenticationService";
+import { useState } from "react";
+import PokemonEdit from "./pages/pokemonEdit";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+import "./App.css";
+
+const App = () => {
+  const [isAuthenticated, setIsAuthenticated] = useState<boolean>(
+    AuthenticationService.isAuthenticated
   );
-}
+
+  return isAuthenticated ? (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Pokedex />} />
+        <Route path="/pokemon/:id" element={<PokemonDetail />} />
+        <Route path="/pokemon/edit/:id" element={<PokemonEdit />} />
+      </Routes>
+    </BrowserRouter>
+  ) : (
+    <Login setIsAuthenticated={setIsAuthenticated} />
+  );
+};
 
 export default App;

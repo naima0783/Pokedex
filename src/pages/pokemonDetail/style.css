@@ -1,0 +1,14 @@
+article {
+  width: 60em;
+  margin: auto;
+}
+
+.flexBox {
+  display: flex;
+  align-items: center;
+}
+
+.break {
+  flex-basis: 100%;
+  height: 0;
+}

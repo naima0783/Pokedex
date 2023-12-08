@@ -1,0 +1,11 @@
+article {
+  width: 80%;
+}
+
+form > div {
+  margin: 10px;
+}
+
+div.type {
+  width: 10em;
+}

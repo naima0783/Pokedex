@@ -1,0 +1,1312 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Bulbizarre",
+      "hp": 25,
+      "cp": 4,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 2,
+      "name": "Herbizarre",
+      "hp": 72,
+      "cp": 1140,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 3,
+      "name": "Florizarre",
+      "hp": 131,
+      "cp": 1199,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 4,
+      "name": "Salamèche",
+      "hp": 77,
+      "cp": 2569,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+      "types": [2]
+    },
+    {
+      "id": 5,
+      "name": "Reptincel",
+      "hp": 320,
+      "cp": 359,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+      "types": [2]
+    },
+    {
+      "id": 6,
+      "name": "Dracaufeu",
+      "hp": 317,
+      "cp": 3855,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+      "types": [2, 18]
+    },
+    {
+      "id": 7,
+      "name": "Carapuce",
+      "hp": 265,
+      "cp": 3794,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+      "types": [1]
+    },
+    {
+      "id": 8,
+      "name": "Carabaffe",
+      "hp": 75,
+      "cp": 523,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+      "types": [1]
+    },
+    {
+      "id": 9,
+      "name": "Tortank",
+      "hp": 94,
+      "cp": 1988,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+      "types": [1]
+    },
+    {
+      "id": 10,
+      "name": "Chenipan",
+      "hp": 246,
+      "cp": 3608,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+      "types": [9]
+    },
+    {
+      "id": 11,
+      "name": "Chrysacier",
+      "hp": 320,
+      "cp": 4197,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+      "types": [9]
+    },
+    {
+      "id": 12,
+      "name": "Papilusion",
+      "hp": 302,
+      "cp": 658,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+      "types": [9, 18]
+    },
+    {
+      "id": 13,
+      "name": "Aspicot",
+      "hp": 221,
+      "cp": 1785,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+      "types": [9, 12]
+    },
+    {
+      "id": 14,
+      "name": "Coconfort",
+      "hp": 112,
+      "cp": 4323,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+      "types": [9, 12]
+    },
+    {
+      "id": 15,
+      "name": "Dardargnan",
+      "hp": 335,
+      "cp": 3679,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+      "types": [9, 12]
+    },
+    {
+      "id": 16,
+      "name": "Roucool",
+      "hp": 93,
+      "cp": 3865,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+      "types": [10, 18]
+    },
+    {
+      "id": 17,
+      "name": "Roucoups",
+      "hp": 81,
+      "cp": 3744,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+      "types": [10, 18]
+    },
+    {
+      "id": 18,
+      "name": "Roucarnage",
+      "hp": 24,
+      "cp": 3770,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+      "types": [10, 18]
+    },
+    {
+      "id": 19,
+      "name": "Rattata",
+      "hp": 368,
+      "cp": 3960,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+      "types": [10]
+    },
+    {
+      "id": 20,
+      "name": "Rattatac",
+      "hp": 294,
+      "cp": 1267,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "types": [10]
+    },
+    {
+      "id": 21,
+      "name": "Piafabec",
+      "hp": 192,
+      "cp": 4380,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+      "types": [10, 18]
+    },
+    {
+      "id": 22,
+      "name": "Rapasdepic",
+      "hp": 363,
+      "cp": 3373,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
+      "types": [10, 18]
+    },
+    {
+      "id": 23,
+      "name": "Abo",
+      "hp": 129,
+      "cp": 2524,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
+      "types": [12]
+    },
+    {
+      "id": 24,
+      "name": "Arbok",
+      "hp": 104,
+      "cp": 2246,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
+      "types": [12]
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "hp": 149,
+      "cp": 3022,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      "types": [6]
+    },
+    {
+      "id": 26,
+      "name": "Raichu",
+      "hp": 207,
+      "cp": 1015,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
+      "types": [6]
+    },
+    {
+      "id": 27,
+      "name": "Sabelette",
+      "hp": 290,
+      "cp": 3126,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
+      "types": [15]
+    },
+    {
+      "id": 28,
+      "name": "Sablaireau",
+      "hp": 17,
+      "cp": 969,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
+      "types": [15]
+    },
+    {
+      "id": 29,
+      "name": "Nidoran♀",
+      "hp": 250,
+      "cp": 2815,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
+      "types": [12]
+    },
+    {
+      "id": 30,
+      "name": "Nidorina",
+      "hp": 379,
+      "cp": 1964,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
+      "types": [12]
+    },
+    {
+      "id": 31,
+      "name": "Nidoqueen",
+      "hp": 303,
+      "cp": 1607,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+      "types": [12, 15]
+    },
+    {
+      "id": 32,
+      "name": "Nidoran♂",
+      "hp": 166,
+      "cp": 4079,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
+      "types": [12]
+    },
+    {
+      "id": 33,
+      "name": "Nidorino",
+      "hp": 281,
+      "cp": 2573,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
+      "types": [12]
+    },
+    {
+      "id": 34,
+      "name": "Nidoking",
+      "hp": 399,
+      "cp": 1972,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
+      "types": [12, 15]
+    },
+    {
+      "id": 35,
+      "name": "Mélofée",
+      "hp": 376,
+      "cp": 3838,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+      "types": [7]
+    },
+    {
+      "id": 36,
+      "name": "Mélodelfe",
+      "hp": 207,
+      "cp": 1249,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
+      "types": [7]
+    },
+    {
+      "id": 37,
+      "name": "Goupix",
+      "hp": 9,
+      "cp": 2870,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+      "types": [2]
+    },
+    {
+      "id": 38,
+      "name": "Feunard",
+      "hp": 370,
+      "cp": 456,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+      "types": [2]
+    },
+    {
+      "id": 39,
+      "name": "Rondoudou",
+      "hp": 268,
+      "cp": 3603,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+      "types": [7, 10]
+    },
+    {
+      "id": 40,
+      "name": "Grodoudou",
+      "hp": 209,
+      "cp": 502,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
+      "types": [7, 10]
+    },
+    {
+      "id": 41,
+      "name": "Nosferapti",
+      "hp": 24,
+      "cp": 2989,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
+      "types": [12, 18]
+    },
+    {
+      "id": 42,
+      "name": "Nosferalto",
+      "hp": 78,
+      "cp": 3757,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
+      "types": [12, 18]
+    },
+    {
+      "id": 43,
+      "name": "Mystherbe",
+      "hp": 134,
+      "cp": 4151,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 44,
+      "name": "Ortide",
+      "hp": 220,
+      "cp": 1838,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 45,
+      "name": "Rafflesia",
+      "hp": 79,
+      "cp": 3985,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 46,
+      "name": "Paras",
+      "hp": 290,
+      "cp": 662,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
+      "types": [9, 11]
+    },
+    {
+      "id": 47,
+      "name": "Parasect",
+      "hp": 356,
+      "cp": 3646,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
+      "types": [9, 11]
+    },
+    {
+      "id": 48,
+      "name": "Mimitoss",
+      "hp": 276,
+      "cp": 2496,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
+      "types": [9, 12]
+    },
+    {
+      "id": 49,
+      "name": "Aéromite",
+      "hp": 92,
+      "cp": 3555,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
+      "types": [9, 12]
+    },
+    {
+      "id": 50,
+      "name": "Taupiqueur",
+      "hp": 135,
+      "cp": 2016,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+      "types": [15]
+    },
+    {
+      "id": 51,
+      "name": "Triopikeur",
+      "hp": 18,
+      "cp": 995,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
+      "types": [15]
+    },
+    {
+      "id": 52,
+      "name": "Miaouss",
+      "hp": 356,
+      "cp": 4224,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
+      "types": [10]
+    },
+    {
+      "id": 53,
+      "name": "Persian",
+      "hp": 353,
+      "cp": 4250,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
+      "types": [10]
+    },
+    {
+      "id": 54,
+      "name": "Psykokwak",
+      "hp": 304,
+      "cp": 486,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
+      "types": [1]
+    },
+    {
+      "id": 55,
+      "name": "Akwakwak",
+      "hp": 121,
+      "cp": 2383,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
+      "types": [1]
+    },
+    {
+      "id": 56,
+      "name": "Férosinge",
+      "hp": 218,
+      "cp": 4366,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
+      "types": [4]
+    },
+    {
+      "id": 57,
+      "name": "Colossinge",
+      "hp": 196,
+      "cp": 2527,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
+      "types": [4]
+    },
+    {
+      "id": 58,
+      "name": "Caninos",
+      "hp": 112,
+      "cp": 1674,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+      "types": [2]
+    },
+    {
+      "id": 59,
+      "name": "Arcanin",
+      "hp": 26,
+      "cp": 540,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
+      "types": [2]
+    },
+    {
+      "id": 60,
+      "name": "Ptitard",
+      "hp": 84,
+      "cp": 2520,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
+      "types": [1]
+    },
+    {
+      "id": 61,
+      "name": "Tétarte",
+      "hp": 44,
+      "cp": 563,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
+      "types": [1]
+    },
+    {
+      "id": 62,
+      "name": "Tartard",
+      "hp": 172,
+      "cp": 4268,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
+      "types": [1, 4]
+    },
+    {
+      "id": 63,
+      "name": "Abra",
+      "hp": 63,
+      "cp": 3140,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+      "types": [13]
+    },
+    {
+      "id": 64,
+      "name": "Kadabra",
+      "hp": 244,
+      "cp": 905,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
+      "types": [13]
+    },
+    {
+      "id": 65,
+      "name": "Alakazam",
+      "hp": 193,
+      "cp": 848,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+      "types": [13]
+    },
+    {
+      "id": 66,
+      "name": "Machoc",
+      "hp": 336,
+      "cp": 4255,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
+      "types": [4]
+    },
+    {
+      "id": 67,
+      "name": "Machopeur",
+      "hp": 121,
+      "cp": 3981,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png",
+      "types": [4]
+    },
+    {
+      "id": 68,
+      "name": "Mackogneur",
+      "hp": 137,
+      "cp": 1311,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
+      "types": [4]
+    },
+    {
+      "id": 69,
+      "name": "Chétiflor",
+      "hp": 313,
+      "cp": 4108,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 70,
+      "name": "Boustiflor",
+      "hp": 249,
+      "cp": 1830,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 71,
+      "name": "Empiflor",
+      "hp": 298,
+      "cp": 3358,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
+      "types": [11, 12]
+    },
+    {
+      "id": 72,
+      "name": "Tentacool",
+      "hp": 39,
+      "cp": 2850,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
+      "types": [1, 12]
+    },
+    {
+      "id": 73,
+      "name": "Tentacruel",
+      "hp": 210,
+      "cp": 2613,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
+      "types": [1, 12]
+    },
+    {
+      "id": 74,
+      "name": "Racaillou",
+      "hp": 140,
+      "cp": 2487,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+      "types": [14, 15]
+    },
+    {
+      "id": 75,
+      "name": "Gravalanch",
+      "hp": 179,
+      "cp": 2298,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
+      "types": [14, 15]
+    },
+    {
+      "id": 76,
+      "name": "Grolem",
+      "hp": 388,
+      "cp": 4137,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
+      "types": [14, 15]
+    },
+    {
+      "id": 77,
+      "name": "Ponyta",
+      "hp": 6,
+      "cp": 2760,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
+      "types": [2]
+    },
+    {
+      "id": 78,
+      "name": "Galopa",
+      "hp": 141,
+      "cp": 3015,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
+      "types": [2]
+    },
+    {
+      "id": 79,
+      "name": "Ramoloss",
+      "hp": 321,
+      "cp": 1559,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
+      "types": [1, 13]
+    },
+    {
+      "id": 80,
+      "name": "Flagadoss",
+      "hp": 213,
+      "cp": 1760,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
+      "types": [1, 13]
+    },
+    {
+      "id": 81,
+      "name": "Magnéti",
+      "hp": 183,
+      "cp": 3242,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
+      "types": [3, 6]
+    },
+    {
+      "id": 82,
+      "name": "Magnéton",
+      "hp": 353,
+      "cp": 2166,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
+      "types": [3, 6]
+    },
+    {
+      "id": 83,
+      "name": "Canarticho",
+      "hp": 115,
+      "cp": 788,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
+      "types": [10, 18]
+    },
+    {
+      "id": 84,
+      "name": "Doduo",
+      "hp": 165,
+      "cp": 2316,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
+      "types": [10, 18]
+    },
+    {
+      "id": 85,
+      "name": "Dodrio",
+      "hp": 159,
+      "cp": 3040,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
+      "types": [10, 18]
+    },
+    {
+      "id": 86,
+      "name": "Otaria",
+      "hp": 261,
+      "cp": 924,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
+      "types": [1]
+    },
+    {
+      "id": 87,
+      "name": "Lamantine",
+      "hp": 362,
+      "cp": 1084,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+      "types": [1, 8]
+    },
+    {
+      "id": 88,
+      "name": "Tadmorv",
+      "hp": 153,
+      "cp": 3647,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+      "types": [12]
+    },
+    {
+      "id": 89,
+      "name": "Grotadmorv",
+      "hp": 90,
+      "cp": 901,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+      "types": [12]
+    },
+    {
+      "id": 90,
+      "name": "Kokiyas",
+      "hp": 339,
+      "cp": 3743,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png",
+      "types": [1]
+    },
+    {
+      "id": 91,
+      "name": "Crustabri",
+      "hp": 360,
+      "cp": 2462,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
+      "types": [1, 8]
+    },
+    {
+      "id": 92,
+      "name": "Fantominus",
+      "hp": 379,
+      "cp": 907,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
+      "types": [12, 16]
+    },
+    {
+      "id": 93,
+      "name": "Spectrum",
+      "hp": 247,
+      "cp": 397,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
+      "types": [12, 16]
+    },
+    {
+      "id": 94,
+      "name": "Ectoplasma",
+      "hp": 145,
+      "cp": 2443,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+      "types": [12, 16]
+    },
+    {
+      "id": 95,
+      "name": "Onix",
+      "hp": 157,
+      "cp": 4378,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
+      "types": [14, 15]
+    },
+    {
+      "id": 96,
+      "name": "Soporifik",
+      "hp": 86,
+      "cp": 1331,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
+      "types": [13]
+    },
+    {
+      "id": 97,
+      "name": "Hypnomade",
+      "hp": 52,
+      "cp": 1806,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
+      "types": [13]
+    },
+    {
+      "id": 98,
+      "name": "Krabby",
+      "hp": 383,
+      "cp": 494,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
+      "types": [1]
+    },
+    {
+      "id": 99,
+      "name": "Krabboss",
+      "hp": 16,
+      "cp": 4300,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
+      "types": [1]
+    },
+    {
+      "id": 100,
+      "name": "Voltorbe",
+      "hp": 52,
+      "cp": 2696,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
+      "types": [6]
+    },
+    {
+      "id": 101,
+      "name": "Électrode",
+      "hp": 101,
+      "cp": 2767,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
+      "types": [6]
+    },
+    {
+      "id": 102,
+      "name": "Noeunoeuf",
+      "hp": 344,
+      "cp": 314,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
+      "types": [11, 13]
+    },
+    {
+      "id": 103,
+      "name": "Noadkoko",
+      "hp": 145,
+      "cp": 4404,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
+      "types": [11, 13]
+    },
+    {
+      "id": 104,
+      "name": "Osselait",
+      "hp": 172,
+      "cp": 2542,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
+      "types": [15]
+    },
+    {
+      "id": 105,
+      "name": "Ossatueur",
+      "hp": 122,
+      "cp": 966,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
+      "types": [15]
+    },
+    {
+      "id": 106,
+      "name": "Kicklee",
+      "hp": 78,
+      "cp": 1293,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
+      "types": [4]
+    },
+    {
+      "id": 107,
+      "name": "Tygnon",
+      "hp": 139,
+      "cp": 3375,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
+      "types": [4]
+    },
+    {
+      "id": 108,
+      "name": "Excelangue",
+      "hp": 308,
+      "cp": 1876,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
+      "types": [10]
+    },
+    {
+      "id": 109,
+      "name": "Smogo",
+      "hp": 236,
+      "cp": 1166,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+      "types": [12]
+    },
+    {
+      "id": 110,
+      "name": "Smogogo",
+      "hp": 189,
+      "cp": 4408,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
+      "types": [12]
+    },
+    {
+      "id": 111,
+      "name": "Rhinocorne",
+      "hp": 13,
+      "cp": 3095,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
+      "types": [14, 15]
+    },
+    {
+      "id": 112,
+      "name": "Rhinoféros",
+      "hp": 53,
+      "cp": 3601,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
+      "types": [14, 15]
+    },
+    {
+      "id": 113,
+      "name": "Leveinard",
+      "hp": 124,
+      "cp": 3955,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
+      "types": [10]
+    },
+    {
+      "id": 114,
+      "name": "Saquedeneu",
+      "hp": 309,
+      "cp": 3957,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
+      "types": [11]
+    },
+    {
+      "id": 115,
+      "name": "Kangourex",
+      "hp": 327,
+      "cp": 1686,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
+      "types": [10]
+    },
+    {
+      "id": 116,
+      "name": "Hypotrempe",
+      "hp": 99,
+      "cp": 492,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
+      "types": [1]
+    },
+    {
+      "id": 117,
+      "name": "Hypocéan",
+      "hp": 286,
+      "cp": 4313,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
+      "types": [1]
+    },
+    {
+      "id": 118,
+      "name": "Poissirène",
+      "hp": 225,
+      "cp": 4324,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
+      "types": [1]
+    },
+    {
+      "id": 119,
+      "name": "Poissoroy",
+      "hp": 357,
+      "cp": 3826,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
+      "types": [1]
+    },
+    {
+      "id": 120,
+      "name": "Stari",
+      "hp": 63,
+      "cp": 2484,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
+      "types": [1]
+    },
+    {
+      "id": 121,
+      "name": "Staross",
+      "hp": 194,
+      "cp": 2055,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
+      "types": [1, 13]
+    },
+    {
+      "id": 122,
+      "name": "M.Mime",
+      "hp": 385,
+      "cp": 588,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
+      "types": [7, 13]
+    },
+    {
+      "id": 123,
+      "name": "Insécateur",
+      "hp": 235,
+      "cp": 3156,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+      "types": [9, 18]
+    },
+    {
+      "id": 124,
+      "name": "Lippoutou",
+      "hp": 104,
+      "cp": 957,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+      "types": [8, 13]
+    },
+    {
+      "id": 125,
+      "name": "Élektek",
+      "hp": 301,
+      "cp": 3600,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
+      "types": [6]
+    },
+    {
+      "id": 126,
+      "name": "Magmar",
+      "hp": 212,
+      "cp": 1397,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
+      "types": [2]
+    },
+    {
+      "id": 127,
+      "name": "Scarabrute",
+      "hp": 172,
+      "cp": 2259,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
+      "types": [9]
+    },
+    {
+      "id": 128,
+      "name": "Tauros",
+      "hp": 265,
+      "cp": 653,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
+      "types": [10]
+    },
+    {
+      "id": 129,
+      "name": "Magicarpe",
+      "hp": 197,
+      "cp": 4125,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
+      "types": [1]
+    },
+    {
+      "id": 130,
+      "name": "Léviator",
+      "hp": 86,
+      "cp": 3344,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+      "types": [1, 18]
+    },
+    {
+      "id": 131,
+      "name": "Lokhlass",
+      "hp": 31,
+      "cp": 3030,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+      "types": [1, 8]
+    },
+    {
+      "id": 132,
+      "name": "Métamorph",
+      "hp": 341,
+      "cp": 4191,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
+      "types": [10]
+    },
+    {
+      "id": 133,
+      "name": "Évoli",
+      "hp": 257,
+      "cp": 3777,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+      "types": [10]
+    },
+    {
+      "id": 134,
+      "name": "Aquali",
+      "hp": 139,
+      "cp": 3213,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+      "types": [1]
+    },
+    {
+      "id": 135,
+      "name": "Voltali",
+      "hp": 233,
+      "cp": 1552,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+      "types": [6]
+    },
+    {
+      "id": 136,
+      "name": "Pyroli",
+      "hp": 271,
+      "cp": 1773,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
+      "types": [2]
+    },
+    {
+      "id": 137,
+      "name": "Porygon",
+      "hp": 65,
+      "cp": 994,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
+      "types": [10]
+    },
+    {
+      "id": 138,
+      "name": "Amonita",
+      "hp": 398,
+      "cp": 3043,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
+      "types": [1, 14]
+    },
+    {
+      "id": 139,
+      "name": "Amonistar",
+      "hp": 285,
+      "cp": 4268,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
+      "types": [1, 14]
+    },
+    {
+      "id": 140,
+      "name": "Kabuto",
+      "hp": 139,
+      "cp": 676,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
+      "types": [1, 14]
+    },
+    {
+      "id": 141,
+      "name": "Kabutops",
+      "hp": 305,
+      "cp": 1440,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
+      "types": [1, 14]
+    },
+    {
+      "id": 142,
+      "name": "Ptéra",
+      "hp": 174,
+      "cp": 1514,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+      "types": [14, 18]
+    },
+    {
+      "id": 143,
+      "name": "Ronflex",
+      "hp": 294,
+      "cp": 2944,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+      "types": [10]
+    },
+    {
+      "id": 144,
+      "name": "Artikodin",
+      "hp": 307,
+      "cp": 4131,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
+      "types": [8, 18]
+    },
+    {
+      "id": 145,
+      "name": "Électhor",
+      "hp": 269,
+      "cp": 2566,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
+      "types": [6, 18]
+    },
+    {
+      "id": 146,
+      "name": "Sulfura",
+      "hp": 304,
+      "cp": 4016,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
+      "types": [2, 18]
+    },
+    {
+      "id": 147,
+      "name": "Minidraco",
+      "hp": 107,
+      "cp": 1266,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+      "types": [5]
+    },
+    {
+      "id": 148,
+      "name": "Draco",
+      "hp": 145,
+      "cp": 3622,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
+      "types": [5]
+    },
+    {
+      "id": 149,
+      "name": "Dracolosse",
+      "hp": 191,
+      "cp": 1605,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+      "types": [5, 18]
+    },
+    {
+      "id": 150,
+      "name": "Mewtwo",
+      "hp": 277,
+      "cp": 3018,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+      "types": [13]
+    },
+    {
+      "id": 151,
+      "name": "Mew",
+      "hp": 324,
+      "cp": 1451,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
+      "types": [13]
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "label": "Eau",
+      "color": "6390F0"
+    },
+    {
+      "id": 2,
+      "label": "Feu",
+      "color": "EE8130"
+    },
+    {
+      "id": 3,
+      "label": "Acier",
+      "color": "B7B7CE"
+    },
+    {
+      "id": 4,
+      "label": "Combat",
+      "color": "C22E28"
+    },
+    {
+      "id": 5,
+      "label": "Dragon",
+      "color": "6F35FC"
+    },
+    {
+      "id": 6,
+      "label": "Électrik",
+      "color": "F7D02C"
+    },
+    {
+      "id": 7,
+      "label": "Fée",
+      "color": "D685AD"
+    },
+    {
+      "id": 8,
+      "label": "Glace",
+      "color": "96D9D6"
+    },
+    {
+      "id": 9,
+      "label": "Insecte",
+      "color": "A6B91A"
+    },
+    {
+      "id": 10,
+      "label": "Normal",
+      "color": "A8A77A"
+    },
+    {
+      "id": 11,
+      "label": "Plante",
+      "color": "7AC74C"
+    },
+    {
+      "id": 12,
+      "label": "Poison",
+      "color": "A33EA1"
+    },
+    {
+      "id": 13,
+      "label": "Psy",
+      "color": "F95587"
+    },
+    {
+      "id": 14,
+      "label": "Roche",
+      "color": "B6A136"
+    },
+    {
+      "id": 15,
+      "label": "Sol",
+      "color": "E2BF65"
+    },
+    {
+      "id": 16,
+      "label": "Spectre",
+      "color": "735797"
+    },
+    {
+      "id": 17,
+      "label": "Ténèbres",
+      "color": "705746"
+    },
+    {
+      "id": 18,
+      "label": "Vol",
+      "color": "A98FF3"
+    },
+    {
+      "id": 19,
+      "label": "Obscur"
+    },
+    {
+      "id": 20,
+      "label": "Inconnu"
+    }
+  ]
+}
